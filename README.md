@@ -1,4 +1,4 @@
-![PyreTorch Logo](https://github.com/Balocre/pyretorch/baniere.png)
+![PyreTorch Logo](https://github.com/Balocre/pyretorch/blob/master/baniere.png)
 
 ---
 
